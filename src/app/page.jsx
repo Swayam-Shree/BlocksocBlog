@@ -44,7 +44,7 @@ export default function Page() {
     ];
 
 	return (<>
-        <Header title={"Clean Blog"} subtitle={"A Web3 Blog"} img={homeHeaderImage} />
+        <Header title={"Clean Blog"} subtitle={"A Web3 Blog."} img={homeHeaderImage} />
 
         <div className="container px-4 px-lg-5">
             <div className="row gx-4 gx-lg-5 justify-content-center">

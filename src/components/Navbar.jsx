@@ -17,6 +17,7 @@ export default function Navbar() {
 						<li className="nav-item"><Link className="nav-link px-lg-3 py-3 py-lg-4" href="/about">About</Link></li>
 						<li className="nav-item"><Link className="nav-link px-lg-3 py-3 py-lg-4" href="/signup">Sign Up</Link></li>
 						<li className="nav-item"><ConnectWalletButton /></li>
+						<li className="nav-item"><Link className="nav-link px-lg-3 py-3 py-lg-4" href="/newarticle">create</Link></li>
 					</ul>
 				</div>
 			</div>
